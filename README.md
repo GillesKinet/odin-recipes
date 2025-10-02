@@ -6,3 +6,4 @@ What I have learned from this?
 - Add links in HTML
 - Add images in HTML
 - Create lists in HTML
+- Add paragraphs in HTML
